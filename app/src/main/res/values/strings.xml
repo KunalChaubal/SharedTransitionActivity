@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Shared Transition</string>
+    <string name="text_title">Title</string>
+    <string name="text_desc">Lorem ipsum dolor sit.</string>
+
+    // Transition
+    <string name="transition_image">transImage</string>
+    <string name="transition_title">transTitle</string>
+    <string name="transition_body">transBody</string>
+    <string name="transition_container">transContainer</string>
+</resources>
